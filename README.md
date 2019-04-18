@@ -10,7 +10,9 @@ Download either main.py, or, in the case that you do not have a python interpret
 To run the program, simply run eiter of the above listed files
 ###### Controls
 Use the mouse to position your cursor
+
 Press X to place a X
+
 Press O to place and O
 ###### Rules
 For a list of possible ways to win, take a look at this [helpful website](http://dpsumner.com/cirttt/howToPlay.html)
