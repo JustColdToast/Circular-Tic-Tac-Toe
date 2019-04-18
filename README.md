@@ -13,7 +13,7 @@ Use the mouse to position your cursor
 
 Press X to place a X
 
-Press O to place and O
+Press O to place an O
 ###### Rules
 For a list of possible ways to win, take a look at this [helpful website](http://dpsumner.com/cirttt/howToPlay.html)
 
